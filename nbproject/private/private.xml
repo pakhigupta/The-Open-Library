@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/src/java/hibernate.cfg.xml</file>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/web/sign.jsp</file>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/src/java/tables/book_collection.java</file>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/src/java/tables/donate_book.java</file>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/web/header_secured.jsp</file>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/src/java/action/TableCreator.java</file>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/web/WEB-INF/web.xml</file>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/web/viewBook.jsp</file>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/src/java/tables/sell_book.java</file>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/web/footer.jsp</file>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/web/login.jsp</file>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/web/header.jsp</file>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/web/home.jsp</file>
+            <file>file:/home/pakhi/NetBeansProjects/RcplProject/src/java/tables/login.java</file>
+        </group>
+    </open-files>
+</project-private>
